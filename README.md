@@ -1,3 +1,3 @@
-# HoustonKemp project
+# Tiny example of using Apache Arrow to work with CSV file in R
 
-This repository contains the analysis for ...
+:)
